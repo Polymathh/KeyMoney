@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "426047988651",
+    "project_id": "keymoney-63043",
+    "storage_bucket": "keymoney-63043.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426047988651:android:345f0c1b92cb2afbf668ee",
+        "android_client_info": {
+          "package_name": "com.example.keymoney"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqTtaYD-ZRFQ2nRM6f2Ro74l7aZObbcC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
